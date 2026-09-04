@@ -11,3 +11,12 @@ follwers = 100
 print ("Username:", username)
 print ("Bio:", bio)
 print ("Followers:", follwers)
+
+follwers += 50
+print ("Day 1:", follwers)
+
+follwers += 20
+print ("Day 2:", follwers)
+
+follwers -= 10
+print ("Day 3:", follwers)
