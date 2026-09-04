@@ -1,33 +1,6 @@
-# print ("================")
-# print ("Welcome here")
-# print ("My first post!")
-# print ("================")
+# Activity 1 
+print("==========")
+print("Welcome here")
+print("My first post!")
+print("==========")
 
-
-# username = "cool_creator"
-# bio = "Fun Blogger"
-# follwers = 100
-
-# print ("Username:", username)
-# print ("Bio:", bio)
-# print ("Followers:", follwers)
-
-# follwers += 50
-# print ("Day 1:", follwers)
-
-# follwers += 20
-# print ("Day 2:", follwers)
-
-# follwers -= 10
-# print ("Day 3:", follwers)
-
-# Activity 4
-username = input("Enter Username: ")
-age = input("Enter Age: ")
-category = input("Enter Content Category: ")
-
-print("\n Instargram Profile")
-print ("====================")
-print("Username:", username)
-print ("Age:", age)
-print ("Category:", category)
